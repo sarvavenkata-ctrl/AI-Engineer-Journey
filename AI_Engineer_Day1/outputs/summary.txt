@@ -1,0 +1,13 @@
+Marks Analyzer Summary
+======================
+Number of students: 10
+Class average: 78.00
+Highest mark: Alice (95.0)
+Lowest mark: Frank (55.0)
+
+Grade counts:
+A: 2
+B: 3
+C: 2
+D: 2
+F: 1
